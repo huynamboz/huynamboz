@@ -17,10 +17,9 @@ Hi, I'm CerusCS [Huynam]! <img src="https://gpvc.arturio.dev/huynamboz" alt="Pro
 huynamboz@github
 -------------------------
 💻 I am a self taught Full Stack Developer 
-📚 I have a Bachelors in Computer Science from the BK ĐN
+📚 I am an information technology student of BK ĐN
 📝 I have a strong interest in Web Design
-🌟 Main languages: HTML, CSS, JavaScript
-🚩 Interested in Full Stack Overflow
+🌟 Main languages: HTML, CSS, JavaScript, react JS(learning)
 💖 In a complicated relationship with code
 🎵 Love metal, lofi, jazz and soft music
 ```
