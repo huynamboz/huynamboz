@@ -18,10 +18,10 @@ Hi, I'm CerusCS [Huynam]! <img src="https://gpvc.arturio.dev/huynamboz" alt="Pro
 huynamboz@github
 -------------------------
 💻 I am a self taught Full Stack Developer 
-📚 I am an information technology student of BK ĐN
+📚 I am an information technology student of The University of Danang - University of Science and Technology
 📝 I have a strong interest in Web Design
 🌟 Main languages: HTML, CSS, JavaScript, react JS(learning)
 💖 In a complicated relationship with code
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love lofi and soft music
 ```
 <hr>
