@@ -17,7 +17,7 @@ Hi, I'm CerusCS [Huynam]! <img src="https://gpvc.arturio.dev/huynamboz" alt="Pro
 ```
 huynamboz@github
 -------------------------
-💻 I am a self taught Full Stack Developer 
+💻 I am a self taught Front End Developer 
 📚 I am an information technology student of The University of Danang - University of Science and Technology
 📝 I have a strong interest in Web Design
 🌟 Main languages: HTML, CSS, JavaScript, react JS(learning)
