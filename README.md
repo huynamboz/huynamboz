@@ -11,7 +11,7 @@ Hi, I'm CerusCS [Huynam]! <img src="https://gpvc.arturio.dev/huynamboz" alt="Pro
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+overflow;freelance;University+of+Science+and+Technology"></a>
 </p>
 
-<img align="left" src="https://github.com/huynamboz/huynamboz.github.io/blob/main/avt.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/huynamboz/huynamboz.github.io/blob/main/avt.jpg" width="280px" height="280px" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
