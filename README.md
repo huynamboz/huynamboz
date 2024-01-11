@@ -17,5 +17,7 @@ huynamboz@github
 💖 In a complicated relationship with code
 🎵 Love lofi and soft music
 ```
-todo
-[] Vue 3 npm package drag to scroll
+### Task list
+
+- [ ] An open source website portfolio
+- [ ] Vue3 npm package drag to scroll
