@@ -20,4 +20,4 @@ huynamboz@github
 ### Task list
 
 - [ ] An open source website portfolio
-- [ ] Vue3 npm package drag to scroll
+- [x] Vue3 npm package drag to scroll
