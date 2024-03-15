@@ -21,4 +21,5 @@ huynamboz@github
 
 - [x] An open source website portfolio
 - [x] Vue3 npm package drag to scroll
+- [ ] Build a blog website for selling [nuxt3 + supabase]
 - [ ] A common UI library for VueJs
