@@ -23,4 +23,5 @@ huynamboz@github
 
 - [x] An open source website portfolio
 - [x] Vue3 npm package drag to scroll
+- [ ] Vue qr code banking
 - [ ] A common UI library for VueJs
