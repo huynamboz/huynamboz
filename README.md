@@ -19,8 +19,8 @@ huynamboz@github
 💖 In a complicated relationship with code
 🎵 Love lofi and soft music
 ```
-### Task list
+### Roadmap
 
-- [x] An open source website portfolio
-- [x] Vue3 npm package drag to scroll
-- [ ] Vue fabric editor
+- [x] An open source website portfolio <a href="https://hinam.nuxt.dev" target="_blank">hinam.nuxt.dev</a>
+- [x] Vue3 npm package drag to scroll <a href="https://www.npmjs.com/package/vue-drag-scroller" target="_blank">Vue drag scroller </a>
+- [x] Vue fabric whiteboard <a href="https://github.com/huynamboz/mindrawer">Mindrawer</a>
