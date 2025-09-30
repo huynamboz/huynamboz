@@ -13,7 +13,7 @@ huynamboz@github
 
 -------------------------
 💻 I am a self taught Front End Developer 
-🌟 Main languages: HTML, CSS, JavaScript, Vuejs
+🌟 Main skills: ReactJs, React Native, VueJs, NuxtJs
 📚 I am an information technology student of The University of Danang - University of Science and Technology
 📝 I have a strong interest in Web Design
 💖 In a complicated relationship with code
